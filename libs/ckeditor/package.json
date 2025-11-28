@@ -28,7 +28,7 @@
     "@ckeditor/ckeditor5-style": "41.3.0",
     "@ckeditor/ckeditor5-table": "41.3.0",
     "@ckeditor/ckeditor5-typing": "41.3.0",
-    "@ckeditor/ckeditor5-undo": "41.3.0"
+    "@ckeditor/ckeditor5-undo": "41.4.2"
   },
   "devDependencies": {
     "@ckeditor/ckeditor5-core": "41.3.0",
